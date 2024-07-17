@@ -16,7 +16,7 @@ This is a simple implementation of the classic tic-tac-toe game using React and 
 
 ## Demo
 
-Include a screenshot or GIF of your game in action here.
+https://xo-game-nine-eta.vercel.app/
 
 ## Features
 
