@@ -1,6 +1,3 @@
-Certainly! Here's an updated README file that includes a clear explanation of the development flow and dependencies list for your tic-tac-toe game project:
-
----
 
 # Tic-Tac-Toe Game
 
